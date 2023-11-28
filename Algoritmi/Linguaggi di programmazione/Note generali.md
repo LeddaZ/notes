@@ -1,10 +1,10 @@
 ## Paradigmi
 I linguaggi di programmazione si possono classificare in base al paradigma che utilizzano:
-- **Imperativo (o procedurale)**: specificano come arrivare alla soluzione
-- **Ad oggetti**: specificano qual è la soluzione
-- Funzionale
-- Dichiarativo
-- Concorrente
+- **Imperativo (o procedurale)**: specificano come arrivare alla soluzione;
+- **Ad oggetti**: specificano qual è la soluzione;
+- Funzionale;
+- Dichiarativo;
+- Concorrente.
 
 ## Operazioni sui tipi booleani
 Le operazioni condizionali confrontano due condizioni, ad es. $A > 10$ e $B < 7$.
