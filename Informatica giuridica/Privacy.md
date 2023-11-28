@@ -42,5 +42,7 @@ Gli utenti devono essere **notificati** del salvataggio dei cookie, in caso cont
 Oltre agli strumenti giuridici, esistono strumenti tecnologici per proteggersi dalla raccolta di dati su internet.
 #### Anonymous Remailing
 Permette all'utente di inviare messaggi di posta elettronica senza rivelare la sua identità. Ci sono due tipi di remailing:
-- **Pseudo-anonymous remailing**: l'utente invia una richiesta ad un server, detto **rispeditore anonimo**, che cancella dal messaggio alcune informazioni che possono identificare l'utente (indirizzo e-mail e nome).
-- **Anonymous remailing**:
+- **Pseudo-anonymous remailing**: l'utente invia una richiesta ad un server, detto **remailer anonimo**, che cancella dal messaggio alcune informazioni che possono identificare l'utente (indirizzo e-mail e nome).
+- **Anonymous remailing**: utilizza una catena di **remailer** associata ad un sistema di **cifratura** a chiave doppia che si mette in funzione ad ogni passaggio. In questo modo ciascun remailer conosce unicamente l’identità del remailer successivo, ma non conosce altro.
+#### Anonymous Surfing
+Permette all'utente di evitare che i server web raccolgano informazioni quali l'indirizzo IP, il browser o altri siti visitati. Ciò è possibile scaricando la pagina web visitata non nel proprio dispositivo ma in un server, detto **anonimizzatore**, che successivamente la invia al dispositivo dell’utente. Con questo sistema si può navigare in rete senza lasciare tracce identificative.
