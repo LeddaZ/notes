@@ -53,3 +53,5 @@ Il beneficiario del diritto alla protezione dei dati è la **persona fisica**.
 - Diritto di opposizione al trattamento
 - Diritto all'oblio
 - Diritto alla portabilità
+
+### Informativa
