@@ -9,11 +9,11 @@ La privacy si sviluppa negli anni Novanta a partire dalla **direttiva europea 95
 
 ## Direttiva europea 95/46
 Questa direttiva introduce, oltre all'**obbligo per gli stati membri di avere una legge sulla privacy**, alcuni principi riguardanti la protezione dei dati personali:
-- I dati possono essere elaborati solo con il consenso *esplicito* dell'interessato;
-- Agli interessati è riconosciuto il diritto di essere informati sull'elaborazione dei dati che li riguardano;
-- Gli interessati hanno il diritto di accesso ai dati per controllarne l'accuratezza e il modo in cui vengono trattati;
-- Gli interessati hanno il diritto di richiedere la cancellazione dei propri dati personali o il rifiuto del trattamento dei dati;
-- Gli interessati hanno il diritto di ottenere un risarcimento dei danni subiti in caso di lesione dei propri diritti.
+- I dati possono essere elaborati solo con il consenso *esplicito* dell'interessato
+- Agli interessati è riconosciuto il diritto di essere informati sull'elaborazione dei dati che li riguardano
+- Gli interessati hanno il diritto di accesso ai dati per controllarne l'accuratezza e il modo in cui vengono trattati
+- Gli interessati hanno il diritto di richiedere la cancellazione dei propri dati personali o il rifiuto del trattamento dei dati
+- Gli interessati hanno il diritto di ottenere un risarcimento dei danni subiti in caso di lesione dei propri diritti
 
 Questa direttiva è stata sostituita dal codice della privacy (legge 2006/193).
 
@@ -26,10 +26,10 @@ Il GDPR è entrato in vigore a maggio 2018.
 ## Privacy su internet
 ### Log
 I **log** sono file in cui i server memorizzano automaticamente varie informazioni, tra cui:
-- La durata del collegamento;
-- Sistema operativo, browser, caratteristiche del dispositivo;
-- Indirizzo IP dell'utente;
-- Pagine visitate e tempo impiegato.
+- La durata del collegamento
+- Sistema operativo, browser, caratteristiche del dispositivo
+- Indirizzo IP dell'utente
+- Pagine visitate e tempo impiegato
 
 Un log dettagliato può essere utilizzato per **profilare gli utenti**.
 
@@ -46,3 +46,6 @@ Permette all'utente di inviare messaggi di posta elettronica senza rivelare la s
 - **Anonymous remailing**: utilizza una catena di **remailer** associata ad un sistema di **cifratura** a chiave doppia che si mette in funzione ad ogni passaggio. In questo modo ciascun remailer conosce unicamente l’identità del remailer successivo, ma non conosce altro.
 #### Anonymous Surfing
 Permette all'utente di evitare che i server web raccolgano informazioni quali l'indirizzo IP, il browser o altri siti visitati. Ciò è possibile scaricando la pagina web visitata non nel proprio dispositivo ma in un server, detto **anonimizzatore**, che successivamente la invia al dispositivo dell’utente. Con questo sistema si può navigare in rete senza lasciare tracce identificative.
+
+### Dati all'estero
+Secondo la direttiva 95/46 è vietato condividere dati con paesi terzi che non garantiscono forme di tutela della privacy adeguate agli standard europei; questo si applica anche al GDPR.

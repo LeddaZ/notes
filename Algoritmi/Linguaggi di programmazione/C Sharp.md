@@ -1,13 +1,13 @@
 ## Parametri
 I parametri si dividono in **attuali** e **formali**.
 ### Parametri attuali
-- Usati nella chiamata della funzione;
-- Vengono forniti alla funzione per svolgere il suo compito;
-- Rimangono anche al termine della funzione, ma il loro valore potrebbe essere cambiato.
+- Usati nella chiamata della funzione
+- Vengono forniti alla funzione per svolgere il suo compito
+- Rimangono anche al termine della funzione, ma il loro valore potrebbe essere cambiato
 ### Parametri formali
-- Usati nella definizione della funzione;
-- Si utilizzano come segnaposti in attesa di avere un valore;
-- Non esistono più al termine della funzione.
+- Usati nella definizione della funzione
+- Si utilizzano come segnaposti in attesa di avere un valore
+- Non esistono più al termine della funzione
 
 
 ## Passaggio delle variabili
