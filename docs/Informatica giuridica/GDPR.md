@@ -30,7 +30,6 @@ Il beneficiario del diritto alla protezione dei dati è la **persona fisica**.
 
 **Responsabile del trattamento**: la persona fisica o giuridica, l’autorità pubblica, il servizio o altro organismo che tratta dati personali per conto del titolare del trattamento.
 
-#### Tipi di dati
 **Dati genetici**: i dati personali relativi alle caratteristiche genetiche ereditarie o acquisite di una persona fisica che forniscono informazioni univoche sulla fisiologia o sulla salute di detta persona fisica, e che risultano in particolare dall’analisi di un campione biologico della persona fisica in questione.
 
 **Dati biometrici**: i dati personali ottenuti da un trattamento relativo alle caratteristiche fisiche, fisiologiche o comportamentali di una persona fisica che ne consentono o confermano l’identificazione univoca, quali l’immagine facciale o le impronte digitali.
@@ -39,7 +38,6 @@ Il beneficiario del diritto alla protezione dei dati è la **persona fisica**.
 
 **Dati sensibili**: etnia, orientamento religioso e sessuale, opinione politica, stato di salute.
 
----
 **Consenso dell’interessato**: qualsiasi manifestazione di volontà libera, specifica, informata e inequivocabile dell’interessato, con la quale lo stesso manifesta il proprio assenso, mediante dichiarazione o azione positiva inequivocabile, che i dati personali che lo riguardano siano oggetto di trattamento.
 
 **Violazione dei dati personali** o **data breach**: la violazione di sicurezza che comporta accidentalmente o in modo illecito la distruzione, la perdita, la modifica, la divulgazione non autorizzata o l’accesso ai dati personali trasmessi, conservati o comunque trattati.
