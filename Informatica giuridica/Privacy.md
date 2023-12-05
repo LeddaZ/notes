@@ -72,8 +72,23 @@ Nei seguenti casi è obbligatorio effettuare la valutazione:
 - Trattamento su larga scala di alcune categorie di dati, tra cui condanne penali e reati;
 - Controllo sistematico di zone accessibili al pubblico.
 
+### Prevenzione dei rischi
+Il datore di lavoro è chiamato ad adottare ogni misura in grado di prevenire il rischio di utilizzi impropri, così da ridurre controlli successivi sui lavoratori:
+- Individuare preventivamente i siti considerati correlati o meno con la prestazione lavorativa;
+- Utilizzare filtri che prevengano determinate operazioni, quali l’acceso a siti inseriti in una black list o il download di file musicali o multimediali.
+
 ### DPO (Data Protection Officer)
 La responsabilità principale del DPO è quella di osservare, valutare e organizzare la gestione del trattamento di dati personali (e dunque la loro protezione) all’interno di un’azienda (sia essa pubblica che privata), affinché questi siano trattati nel rispetto delle normative europee e nazionali. È obbligatorio per:
 - Pubblica amministrazione (eccetto le autorità giudiziarie);
 - Aziende che trattano dati sensibili su larga scala;
 - Aziende il cui trattamento comporta un controllo regolare e sistematico degli interessati.
+
+### Norme ISO
+- ISO 9001: requisiti per i sistemi di gestione per la qualità.
+- ISO 27001: requisiti per i sistemi di gestione delle informazioni.
+
+## Sanzioni
+-  Chiunque subisca un danno materiale o immateriale causato da una violazione del regolamento ha il diritto di ottenere il risarcimento del danno dal titolare o responsabile del trattamento.
+-  Un titolare del trattamento risponde per il danno causato dal suo trattamento. Un responsabile del trattamento risponde per il danno causato dal trattamento solo se non ha adempiuto agli obblighi del regolamento o ha agito in modo inadeguato rispetto alle istruzioni del titolare del trattamento.
+
+Il titolare o responsabile del trattamento è esonerato dalla responsabilità se dimostra che l’evento dannoso non gli è in alcun modo imputabile.
