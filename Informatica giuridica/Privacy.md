@@ -17,7 +17,7 @@ Questa direttiva introduce, oltre all'**obbligo per gli stati membri di avere un
 
 Questa direttiva è stata sostituita dal codice della privacy (legge 2006/193).
 
-## GDPR
+## [GDPR](./GDPR.md)
 Il GDPR è entrato in vigore a maggio 2018.
 ### Privacy by design e by default
 - **Privacy by design**: la progettazione deve tenere conto della privacy;
