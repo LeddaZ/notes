@@ -73,7 +73,7 @@ Nei seguenti casi è obbligatorio effettuare la valutazione:
 - Controllo sistematico di zone accessibili al pubblico.
 
 ### DPO (Data Protection Officer)
-La responsabilità principale del DPO è quella di osservare, valutare e organizzare la gestione del trattamento di dati personali (e dunque la loro protezione) all’interno di un’azienda (sia essa pubblica che privata), affinché questi siano trattati nel rispetto delle normative europee e nazionali. è obbligatorio per:
+La responsabilità principale del DPO è quella di osservare, valutare e organizzare la gestione del trattamento di dati personali (e dunque la loro protezione) all’interno di un’azienda (sia essa pubblica che privata), affinché questi siano trattati nel rispetto delle normative europee e nazionali. È obbligatorio per:
 - Pubblica amministrazione (eccetto le autorità giudiziarie);
 - Aziende che trattano dati sensibili su larga scala;
 - Aziende il cui trattamento comporta un controllo regolare e sistematico degli interessati.
