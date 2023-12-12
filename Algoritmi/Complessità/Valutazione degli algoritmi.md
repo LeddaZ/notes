@@ -1,5 +1,3 @@
-La **complessità** è l'analisi delle **risorse impiegate** da un algoritmo per risolvere un problema in funzione della dimensione e della tipologia dell'input.
-
 ## Valutazione di un algoritmo
 ### Efficienza
 Si deve stabilire se un programma è efficiente, ossia utilizza il tempo e lo spazio a disposizione nel miglior modo possibile; quando si raggiunge il massimo livello di efficienza si trova la **soluzione ottima**. *Non tutti i problemi possono essere risolti efficientemente, alcuni non possono essere risolti in alcun modo.*
@@ -27,6 +25,8 @@ Per risolvere un problema in modo corretto si introduce l'**invariante**: una co
 - **Conclusione**: quando il ciclo termina, l’invariante deve rappresentare la *correttezza* dell’algoritmo.
 
 ## Complessità degli algoritmi
+La **complessità** è l'analisi delle **risorse impiegate** da un algoritmo per risolvere un problema in funzione della dimensione e della tipologia dell'input.
+
 La complessità di un algoritmo si misura in base al tempo per i seguenti motivi:
 - Per stimare il tempo impiegato per un input dato;
 - Per stimare il più grande input gestibile in tempi ragionevoli;
