@@ -59,12 +59,11 @@ Il tempo è il numero di **istruzioni elementari**; un'istruzione si considera e
 ### Costo della ricerca binaria
 
 $$
-T(n) = \left\{\begin{array}{lr}
+T(n) = 
+  \begin{cases}
     c\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \text{se}\ n = 0\\
     T(n/2)+d\ \ \ \ \text{se}\ n \ge 1
-  \end{array}
-\right.
+  \end{cases}
 $$
-
 
 La formula si chiama **equazione di ricorrenza**.
