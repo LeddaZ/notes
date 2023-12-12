@@ -65,7 +65,7 @@ T(n)=
     c\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \text{se}\ n = 0\\
     T(n/2)+d\ \ \ \ \text{se}\ n \ge 1&&
   \end{cases}&&
-  \end{flalign}
+\end{flalign}
 $$
 
 La formula si chiama **equazione di ricorrenza**.
