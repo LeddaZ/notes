@@ -59,8 +59,7 @@ Il tempo è il numero di **istruzioni elementari**; un'istruzione si considera e
 ### Costo della ricerca binaria
 
 $$
-T(n) = \left\{
-  \begin{array}{lr}
+T(n) = \left\{\begin{array}{lr}
     c\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \text{se}\ n = 0\\
     T(n/2)+d\ \ \ \ \text{se}\ n \ge 1
   \end{array}
