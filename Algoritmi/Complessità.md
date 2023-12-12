@@ -57,14 +57,15 @@ Il tempo è il numero di **istruzioni elementari**; un'istruzione si considera e
 - **Caso medio**: i dati che richiedono un numero “medio” di operazioni.
 
 ### Costo della ricerca binaria
-```latex
+
+$$
 T(n) = \left\{
   \begin{array}{lr}
     c\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \text{se}\ n = 0\\
     T(n/2)+d\ \ \ \ \text{se}\ n \ge 1
   \end{array}
 \right.
-```
+$$
 
 
 La formula si chiama **equazione di ricorrenza**.
