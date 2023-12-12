@@ -37,3 +37,33 @@ La complessità di un algoritmo si misura in base al tempo per i seguenti motivi
 
 ### Definizione del tempo
 Il tempo è il numero di **istruzioni elementari**; un'istruzione si considera elementare se può essere eseguita in un **tempo costante**.
+
+#### Criteri di costo
+- **Logaritmico**: la dimensione dell'input è il numero di bit necessari per rappresentarlo;
+- **Unitario**: la dimensione dell'input è il numero di elementi di cui è costituito.
+
+### Random Access Machine
+È la rappresentazione astratta di un calcolatore e si utilizza per calcolare l'efficienza dell'algoritmo.
+
+##### Caratteristiche
+- Numero infinito di celle di memoria di dimensione finita;
+- Accesso in tempo costante;
+- Set di istruzioni elementari (operazioni logiche e aritmetiche e istruzioni di controllo);
+- Costo unitario.
+
+### Caso pessimo, ottimo, medio
+- **Caso pessimo**: i dati sui quali l’algoritmo richiede il massimo numero di operazioni;
+- **Caso ottimo**: i dati sui quali l’algoritmo richiede il minor numero di operazioni;
+- **Caso medio**: i dati che richiedono un numero “medio” di operazioni.
+
+### Costo della ricerca binaria
+$$
+T(n) = \left\{
+  \begin{array}{lr}
+    c\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \text{se}\ n = 0\\
+    T(n/2)+d\ \ \ \ \text{se}\ n \ge 1
+  \end{array}
+\right.
+$$
+
+La formula si chiama **equazione di ricorrenza**.
