@@ -18,14 +18,14 @@ Il selection sort scorre sempre tutta la sequenza $O(n^2)$ volte.
 ```
 SelectionSort(item[] A, int n) {
     for i = 1 to n - 1 do
-	    int min = min(A, i, n)
-	    A[i] <-> A[min]
+        int min = min(A, i, n)
+        A[i] <-> A[min]
 }
 
 int min(item[] A, int i, int n) {
     for j = i + 1 to n do
-	    if A[j] < A[min] then
-		    min = j
+        if A[j] < A[min] then
+            min = j
     return min
 }
 ```
@@ -41,17 +41,17 @@ essere spostata dove sarà maggiore di tutte le carte precedenti
 InsertionSort(item[] A, int n) {
     for i = 2 to n do
         item temp = A[i]
-	    int j = i
-	    while j > 1 and A[j - 1] > temp do
-	        A[j] = A[j - 1]
-	        j = j - 1
-	    A[j] = temp
+        int j = i
+        while j > 1 and A[j - 1] > temp do
+            A[j] = A[j - 1]
+            j = j - 1
+        A[j] = temp
 }
 
 int min(item[] A, int i, int n) {
     for j = i + 1 to n do
-	    if A[j] < A[min] then
-		    min = j
+        if A[j] < A[min] then
+            min = j
     return min
 }
 ```
