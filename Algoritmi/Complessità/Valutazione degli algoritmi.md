@@ -56,6 +56,8 @@ Il tempo è il numero di **istruzioni elementari**; un'istruzione si considera e
 - **Caso ottimo**: i dati sui quali l’algoritmo richiede il minor numero di operazioni;
 - **Caso medio**: i dati che richiedono un numero “medio” di operazioni.
 
+Solitamente si analizza il **caso pessimo**, ma in alcuni casi si analizza il **caso ottimo** se si hanno informazioni particolari sull'input.
+
 ### Costo della ricerca binaria
 
 $$
