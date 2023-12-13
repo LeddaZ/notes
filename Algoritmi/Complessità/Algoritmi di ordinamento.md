@@ -55,8 +55,6 @@ int min(item[] A, int i, int n) {
     return min
 }
 ```
-Per ogni elemento si memorizza il valore A[i] e, se
-necessario, “sposto” tutti valori
-maggiori di A[i] verso destra,
-creando uno spazio per inserire A[i]
-nella corretta posizione.
+Per ogni elemento si memorizza il valore `A[i]` e, se necessario, si spostano tutti valori maggiori di `A[i]` verso destra, creando uno spazio per inserire `A[i]` nella posizione corretta.
+
+Dal punto di vista della complessità l'insertion sort è migliore del selection sort nel caso ottimo e uguale nel caso pessimo.
