@@ -1,8 +1,9 @@
 ---
 title: Census Menu memory addresses
-tags: 3ds
-  acnl
-  hacking
+tags:
+  - 3ds
+  - acnl
+  - hacking
 date: 2025-03-02
 ---
 
