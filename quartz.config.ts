@@ -9,6 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Leonardo's notes 😸",
+    pageTitleSuffix: " - Leonardo's notes 😸",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
@@ -22,7 +23,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Plus Jakarta Sans",
         body: "Work Sans",
-        code: "Roboto Mono",
+        code: "Google Sans Code",
       },
       colors: {
         lightMode: {
