@@ -13,6 +13,8 @@ Welcome to my notes repository!
 
 ## [Samsung Ativ Tab 5](./ativ5/index.md)
 
+## [Extra stuff](./extra/index.md)
+
 I love cats, so here's Sakaki from Azumanga Daioh holding Maya:
 
 ![sakaki](./assets/sakaki.gif)
