@@ -9,6 +9,10 @@ html {
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
+
+  @media all and ($mobile) {
+    scroll-padding-top: 4rem;
+  }
 }
 
 body {
@@ -40,7 +44,7 @@ ol,
 .katex,
 .math,
 .typst-doc,
-.typst-doc * {
+g[class~="typst-text"] {
   color: var(--darkgray);
   fill: var(--darkgray);
   hyphens: auto;
@@ -56,6 +60,10 @@ ul,
 .math {
   overflow-wrap: anywhere;
   /* tr and td removed from list of selectors for overflow-wrap, allowing them to use default 'normal' property value */
+}
+
+path[class~="typst-shape"] {
+  stroke: var(--darkgray);
 }
 
 .math {
