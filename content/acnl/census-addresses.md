@@ -117,6 +117,9 @@ It consists of 4 stat values for each player and a hidden stat value combining a
 | Coupons spent                      | `0x72B28`                       |                                                     |
 | Unused                             | `0x72B3C`                       | Non Player specific / most likely unused            |
 
+## Credits
+- Thanks to [RedShyGuy](https://github.com/RedShyGuy) for improving the table
+
 ## Tools used
 
 - [ImHex](https://github.com/WerWolv/ImHex)
